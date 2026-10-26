@@ -1,17 +1,32 @@
-# My DSA Journey
+# My DSA Journey 🚀
 
-My daily journey of learning Data Structures and Algorithms using Java.
+Welcome to my Data Structures and Algorithms (DSA) learning journey!
 
-## Topics
+I am practicing DSA using Java, focusing on understanding problems,
+starting with brute-force approaches and improving them to optimized solutions.
 
-- Arrays
-  - Two Pointers
-  - Sliding Window
-  - Kadane's Algorithm
-  - Prefix Sum
+## 📚 Topics
 
-## Goals
+### Arrays
+
+- Two Pointers
+- Sliding Window
+- Kadane's Algorithm
+- Prefix Sum
+
+## 🎯 Goals
 
 - Practice DSA problems consistently.
-- Understand brute-force and optimized solutions.
-- Improve problem-solving and time complexity analysis.
+- Understand brute-force and optimized approaches.
+- Improve problem-solving skills.
+- Analyze time and space complexity.
+- Document what I learn from each problem.
+
+## 💻 Language
+
+- Java
+
+## 📈 Progress
+
+This repository will be updated as I solve more problems and learn new patterns.
+
